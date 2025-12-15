@@ -1,4 +1,4 @@
-![Proxio Banner](https://raw.githubusercontent.com/proxio-net/amazon-product-scraper/refs/heads/main/PROXIO%20BANNER.png)
+[![Proxio Banner](https://raw.githubusercontent.com/proxio-net/amazon-product-scraper/main/PROXIO%20BANNER.png?v=1)](https://proxio.net)
 
 # 🛒 Amazon Product Scraper
 
