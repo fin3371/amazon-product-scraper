@@ -1,3 +1,5 @@
+![Proxio Banner](https://raw.githubusercontent.com/proxio-net/amazon-product-scraper/refs/heads/main/PROXIO%20BANNER.png)
+
 # 🛒 Amazon Product Scraper
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -13,6 +15,22 @@ Scrape Amazon at scale without getting blocked! Use **[Proxio's Residential Prox
 ### 🎁 Special Offer
 Use code **`GIT30`** for **30% OFF** your first month!
 [**Get Started →**](https://proxio.net/pricing)
+
+---
+
+## 📑 Table of Contents
+
+- [Powered by Proxio](#-powered-by-proxio)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Using Proxio Proxies](#-using-proxio-proxies)
+- [Output Example](#-output-example)
+- [Anti-Detection Tips](#-anti-detection-tips)
+- [Legal Disclaimer](#-legal-disclaimer)
+- [Use Cases](#-use-cases)
+- [Support](#-support)
+- [License](#-license)
 
 ---
 
